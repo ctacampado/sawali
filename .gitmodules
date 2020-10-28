@@ -4,3 +4,6 @@
 [submodule "pkg/toylog"]
 	path = pkg/toylog
 	url = https://github.com/ctacampado/toylog
+[submodule "pkg/toyerrs"]
+	path = pkg/toyerrs
+	url = https://github.com/ctacampado/toyerrs
