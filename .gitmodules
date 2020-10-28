@@ -1,3 +1,6 @@
 [submodule "pkg/errs"]
 	path = pkg/errs
 	url = https://github.com/ctacampado/errs
+[submodule "pkg/toylog"]
+	path = pkg/toylog
+	url = https://github.com/ctacampado/toylog
